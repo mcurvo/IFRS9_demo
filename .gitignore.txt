@@ -1,0 +1,4 @@
+.venv/
+*Zone.Identifier
+.ipynb_checkpoints
+.git
