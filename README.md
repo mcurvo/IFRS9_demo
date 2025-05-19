@@ -1,6 +1,6 @@
 # IFRS9
 
-Just a quick weekend project to understand how to calculate and stress-test Expected Credit Loss (ECL) under IFRS 9 using Python and Jupyter notebooks.
+Just a quick weekend project to understand how to calculate and stress-test Expected Credit Loss (ECL) under IFRS 9 using Python
 
 ## What’s inside
 
